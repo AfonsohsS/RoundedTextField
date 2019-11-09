@@ -1,6 +1,5 @@
 //
 //  RoundedTextField.swift
-//  Clima
 //
 //  Created by Afonso H Sabino on 09/11/19.
 //  Copyright © 2019 App Brewery. All rights reserved.
